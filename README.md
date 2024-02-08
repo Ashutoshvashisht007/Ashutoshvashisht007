@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashutoshvashisht007
-- I'm a fullstack developer with the knowledge of languages like React, Node.js, JavaScript, Typescript, MongoDB, Express. 
+- I'm a fullstack developer. I have knowledge of both JavaScript and TypeScript and created projects using MERN stack.
 - 👀 I’m interested in doing coding and playing video games.
 - 📫 How to reach me: mail me at ashutoshanandsharma51@gmail.com
 
